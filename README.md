@@ -107,6 +107,25 @@ Complete Python notebook containing:
 - Business insights
 
 ---
+<img width="571" height="508" alt="weekly_ride_pattern" src="https://github.com/user-attachments/assets/23cfbb3f-119e-472b-b68b-73f921387b23" />
+<img width="562" height="499" alt="average_ride_duration_analysis" src="https://github.com/user-attachments/assets/2de37a0f-d831-4650-9de1-9f4e8692d3d9" />
+<img width="580" height="499" alt="rider_type_analysis" src="https://github.com/user-attachments/assets/a248ce2d-8f6b-4466-99dc-dc4059428780" />
+
+## Visualizations
+
+### Rider Type Analysis
+
+![Rider Type Analysis](images/rider_type_analysis.png)
+
+### Average Ride Duration
+
+![Ride Duration Analysis](images/ride_duration_analysis.png)
+
+### Weekly Ride Pattern
+
+![Weekly Ride Pattern](images/weekly_ride_pattern.png)
+
+---
 
 ## Author
 
